@@ -1,1 +1,1 @@
-ECHO is on.
+print("Prediction Script")
